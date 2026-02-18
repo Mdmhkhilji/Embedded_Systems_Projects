@@ -1,0 +1,2 @@
+../Core/Src/mfrc522.c:15:6:MFRC522_Init	16	static
+../Core/Src/mfrc522.c:21:9:MFRC522_Check	16	static

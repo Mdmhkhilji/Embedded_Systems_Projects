@@ -1,0 +1,2 @@
+../Core/Src/door_control.c:10:6:Door_Open	1
+../Core/Src/door_control.c:15:6:Door_Close	1

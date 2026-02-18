@@ -1,0 +1,4 @@
+../Core/Src/rtos_tasks.c:18:6:RFID_Task	2
+../Core/Src/rtos_tasks.c:29:6:AUTH_Task	1
+../Core/Src/rtos_tasks.c:42:6:DOOR_Task	2
+../Core/Src/rtos_tasks.c:64:6:LCD_Task	1
